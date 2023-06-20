@@ -23,7 +23,7 @@ public class PwU2P4TDaApplicationimplements CommandLineRunner {
 	private AutorService autorService;
 
 	public static void main(String[] args) {
-		SpringApplication.run(Pa2U2P4AcDaApplication.class, args);
+		SpringApplication.run(PwU2P4TDaApplication.class, args);
 	}
 
 	@Override
